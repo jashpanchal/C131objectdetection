@@ -6,7 +6,7 @@ width: 100%;
 margin: 0px;
 }
 
-#status
+#status,#no_of_objects
 {
 font-size: 15px;
 }
@@ -19,5 +19,5 @@ body{
 canvas{
     border-radius: 10px;
     box-shadow: 10px 10px 10px grey;
-    margin-top:25px;
+    margin-top:50px;
 }
